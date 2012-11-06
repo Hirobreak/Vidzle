@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Vidzle</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Vidzle-Menu Inicial</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="acercade">AcercaDe</string>
+    <string name="start">Start</string>
+
+</resources>
